@@ -2,7 +2,7 @@
 
 A personal finance tracker built with React. Track income and expenses, visualize spending by category, and set monthly budget goals.
 
-🔗 **[Live Demo](spendsmart-3tby2ghpk-ariantechzone-stacks-projects.vercel.app)**
+🔗 **[Live Demo]((spendsmart-3tby2ghpk-ariantechzone-stacks-projects.vercel.app))**
 
 ---
 
