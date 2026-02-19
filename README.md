@@ -2,7 +2,7 @@
 
 A personal finance tracker built with React. Track income and expenses, visualize spending by category, and set monthly budget goals.
 
-🔗 **[Live Demo](https://your-live-url.vercel.app)**
+🔗 **[Live Demo](https://spendsmart-gold.vercel.app/dashboard)**
 
 ---
 
@@ -51,4 +51,4 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## Author
 
-**Your Name** · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio.com)
+**Arian Tech** · [GitHub](https://github.com/ariantechzone-stack) · [Portfolio](https://your-portfolio.com)
